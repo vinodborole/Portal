@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: PortalPlatform
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vinodborole
+Implementation-Vendor-Id: com.vinodborole.portal
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/PortalPlatfo
+ rm/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
